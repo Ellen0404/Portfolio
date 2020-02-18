@@ -71,6 +71,10 @@
         outline:0;
         border:3px solid rgb(214, 171, 62);
     }
+    .size {
+        width: 465;
+         height: 317 !important;
+    }
     
     /* .btn-outline-black:hover{color:#fff;background:#000;border-color:#000} */
     /* .img-dotted-bg{position:relative
