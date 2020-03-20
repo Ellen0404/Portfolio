@@ -14,4 +14,4 @@
 ![](assets/images/1582242763200.png)
 ***
 ## Direct link to my website
-[Link to my Website](https://ellen0404.github.io/Updated_Portfolio/)
+[Link to my Website](https://ellen0404.github.io/Portfolio/)
