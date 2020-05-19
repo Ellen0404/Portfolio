@@ -148,6 +148,13 @@
         position:-webkit-sticky;
         top:0
     }
+    .color2{
+        background-color: rgb(199, 142, 57);
+       
+    }
+    .color2:hover{
+        color:rgb(46, 82, 42);
+    }
 
     @media  (min-width:250px){
         .move{
